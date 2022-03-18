@@ -1,0 +1,89 @@
+
+body{
+    background-color: black;
+    color: white;
+
+}
+#logo{
+    float: left;
+    margin: 1%;
+
+}
+#menu ul{
+ list-style: none;
+ margin: 1%;
+ padding: 0%;
+ float: left;
+}
+#menu ul li{
+    float: left;
+}
+#menu a{
+    color: white;
+    text-decoration: none;
+    display: block;
+    padding: 15px 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#menu a:hover{
+    color: black;
+    background-color: white;
+}
+header{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 45px;
+    align-items: center;
+    justify-content: center;
+  
+}
+#producto1{
+    color: white;
+    background-color: black;
+    max-width: 1350px;
+    max-height: 800px;
+    padding: 2%;
+
+}
+#producto2{
+
+    color: black;
+    background-color: #ecece1;
+    max-width: 1350px;
+    max-height: 800px;
+    padding: 2%;
+
+}
+#producto3{
+    background-color: rgb(161, 166, 167);
+
+    color: rgb(10, 27, 27);
+    max-width: 1350px;
+    max-height: 800px;
+    padding: 2%;
+
+
+}
+#producto4{
+    background-color: rgb(152, 186, 192);
+
+    color: rgb(2, 24, 24);
+    max-width: 1350px;
+    max-height: 800px;
+    padding: 2%;
+
+}
+#producto5{
+    background-color: rgb(218, 163, 231);
+
+    color: rgb(3, 58, 58);
+    max-width: 1350px;
+    max-height: 800px;
+    padding: 2%;
+
+}
+#productos{
+    background-color:rgb(3, 59, 82);
+   
+}
+  
